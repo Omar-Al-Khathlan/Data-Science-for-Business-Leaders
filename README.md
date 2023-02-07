@@ -12,7 +12,7 @@ The course covers the following topics:
 
 ### Course Project
 
-The project is a scenario, whereby the student plays the role of a newly assinged Data Science department head and they have to construct a 100-day plan for the newly assumed position where they outline the following:
+The project is a scenario, whereby the student plays the role of a newly assigned Data Science department head, and they have to construct a 100-day plan for the newly assumed position where they outline the following:
 
 - The Data Science Opportunities.
 - A Roadmap.
